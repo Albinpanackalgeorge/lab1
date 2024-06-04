@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+#fig{
+    color: red;
+}
+
+.parag{
+    text-align:center
+}
+
+#secparag{
+    front-size: 14px;
+}
